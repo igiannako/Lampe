@@ -1,0 +1,5 @@
+v 1.0 27/10
+# pending before release
+$ orientation fix OK
+$ resumeapp OK
+$ icon has gloss OK
